@@ -1,11 +1,21 @@
-# Sample Snack app
+# 📱 TrakMyJob
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+**TrakMyJob** is a job application tracking app built with **React Native** and **Expo**. It allows users to manage and monitor their job search efficiently by tracking applications, deadlines, interview stages, and more—all in one place.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 🚀 Features
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- Add, edit, and delete job applications
+- Track progress (e.g., Applied, Interview, Offer, Rejected)
+- Save company details and notes for each job
+- Responsive and intuitive interface
+- Built with React Native and Expo for cross-platform support
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+---
+
+## 📲 Getting Started
+
+You can instantly try the app in your browser or on your phone using Expo Snack:
+
+👉 Open in Expo Snack - https://snack.expo.dev/@palakgoyani/4728a0
