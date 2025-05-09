@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TrackMyJob",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#7C9A92"
+    }
+  }
+}
